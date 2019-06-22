@@ -1,0 +1,13 @@
+array
+0 c
+1 c# x
+2 d x
+3 d#
+4 e
+5 f x
+6 f#
+7 g
+8 g# x
+9 a
+10 a# x
+11 b x
